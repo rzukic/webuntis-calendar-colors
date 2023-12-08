@@ -2,7 +2,7 @@
 
 ## Problem
 
-Webunits is the primary program used for school timetable management in Austria. It is a web application where students can view their timetable and teachers can manage their classes. Updates to the timetable are automatically pushed to the students' devices which makes it very useful.
+Webunits is the primary program used for school timetable management in Austria🇦🇹. It is a web application where students can view their timetable and teachers can manage their classes. Updates to the timetable are automatically pushed to the students' devices which makes it very useful.
 
 Special occurences like exams, events or rescheduled classes are marked with special colors. In the web application it looks something like this:
 
