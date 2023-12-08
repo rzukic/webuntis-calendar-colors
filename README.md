@@ -34,8 +34,9 @@ As you can see, the extra color information is lost and replaced by information 
 ### Setup
 
 1. Create a new Apps Script in the Google Sheet
-2. Copy the code from `cron.js` into the script
-3. Change the calendar names and event identifiers to match your needs
-4. Run the script once to authorize it
-5. Create a new trigger for the script to run every hour
-6. Enjoy your colorful calendar
+2. Add the Calendar Service
+3. Copy the code from `cron.js` into the script
+4. Change the calendar names and event identifiers to match your needs
+5. Run the script once to authorize it
+6. Create a new trigger for the script to run every hour
+7. Enjoy your colorful calendar
