@@ -1,4 +1,4 @@
-# Webunits Calendar Colors
+# Webuntis Calendar Colors
 
 ## Problem
 
